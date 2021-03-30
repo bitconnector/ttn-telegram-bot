@@ -13,13 +13,6 @@ from telegram.ext import Updater, CommandHandler, CallbackContext  # as tex
 
 from functools import wraps
 
-
-# ttn_app_id = "" #"mapper_147"
-#ttn_access_key = "ttn-account-v2._bqhg_02NNNTYEHRBuhclWx2JlSsTWFYAkccX4cw4Q0"
-
-#telegram_token = "283441838:AAFAMZn-f7RBoUf7jAtAGXJz-I7GK_HgPpc"
-#LIST_OF_ADMINS = [283441838, 138647026]
-
 last_message = None
 
 Update_Location_for = []
